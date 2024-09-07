@@ -1,7 +1,7 @@
 # Greenden-Tailwind
 # Greenden
 
-Greenden is a fully responsive website designed to showcase eco-friendly products. The website includes three interconnected pages: Home, Product, and Contact. It is built using HTML and Tailwind CSS.
+Greenden is a fully responsive website designed to showcase eco-friendly products. The website includes three interconnected pages: Home, Product, and Contact. It is built using HTML, Tailwind CSS and Javascript.
 
 ## Features
 
@@ -14,5 +14,6 @@ Greenden is a fully responsive website designed to showcase eco-friendly product
 
 - **HTML5:** Markup language used for structuring the content.
 - **Tailwind CSS (v2.9.1):** A utility-first CSS framework used for styling and layout.
+- **JavaScript**: For implementing responsiveness
 
 
